@@ -14,7 +14,7 @@ Team & Responsibilities:
 
 1. G.Naga Vinay
 
-Developer of the project. Created the website and managed the website using HTML, CSS, and Javascript.
+Developer of the project. Created the website and managed the website using HTML, CSS.
 
 2. Mohammad lal sahir:
 
