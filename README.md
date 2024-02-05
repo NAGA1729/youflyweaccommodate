@@ -1,7 +1,5 @@
 # YOU FLY WE ACCOMMODATE
 
-"Unleash Your Potential: Explore Skills, Ignite Success".
-
 # Project Details:
 Project Demo URL: https://portal.azure.com/#home
 
