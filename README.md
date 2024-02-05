@@ -1,6 +1,5 @@
 # YOU FLY WE ACCOMMODATE
-Explore-Skills_Azure
-Explore Skill platform
+
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
 # Project Details:
@@ -110,6 +109,7 @@ Azure Search Service is a fully managed, cloud-based search-as-a -service soluti
 
 
 FINAL PROJECT STATEMENT
+
 The "You Fly, We Accommodate" project is dedicated to redefining travel by providing a streamlined platform that seamlessly integrates air travel and accommodation services. This comprehensive solution offers users a user-friendly interface for planning, booking, and managing their travel itineraries. The project focuses on personalized recommendations, diverse accommodation options, and exclusive bundled packages to deliver a convenient, cost-effective, and enjoyable travel experience. By fostering strategic partnerships and leveraging advanced technology, the project aspires to become the preferred choice for travelers seeking a holistic and hassle-free journey.
 
 
