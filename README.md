@@ -106,7 +106,7 @@ Search Service:
 Azure Search Service is a fully managed, cloud-based search-as-a -service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
 
 
-FINAL PROJECT STATEMENT
+# FINAL PROJECT STATEMENT
 
 The "You Fly, We Accommodate" project is dedicated to redefining travel by providing a streamlined platform that seamlessly integrates air travel and accommodation services. This comprehensive solution offers users a user-friendly interface for planning, booking, and managing their travel itineraries. The project focuses on personalized recommendations, diverse accommodation options, and exclusive bundled packages to deliver a convenient, cost-effective, and enjoyable travel experience. By fostering strategic partnerships and leveraging advanced technology, the project aspires to become the preferred choice for travelers seeking a holistic and hassle-free journey.
 
