@@ -3,7 +3,7 @@ Explore-Skills_Azure
 Explore Skill platform
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
-Project Details:
+# Project Details:
 Project Demo URL: https://portal.azure.com/#home
 
 Static Website URL: https://skillstorage07.z13.web.core.windows.net/
@@ -16,14 +16,22 @@ Industry: LIFESTYLE(Explore the Skills)
 Team & Responsibilities:
 
 1. G.Naga Vinay
+
 Developer of the project. Created the website and managed the website using HTML, CSS, and Javascript.
+
 2. Mohammad lal sahir:
+
 Developed the project. Data collection, Done the entire process.
+
 3. G.Bhanuprakash Reddy:
+ 
 Development, deployment, Static website in Azure portal.
+
 4. M.Saipriya:
+ 
 Documentation and content collection of the project.
-AZURE CORE SERVICES USED:
+
+# AZURE CORE SERVICES USED:
 Azure Storage
 
 Azure containers
@@ -32,7 +40,8 @@ Azure backup
 
 Azure RBAC which is a role-based access service
 
-AZURE AI SERVICES USED:
+# AZURE AI SERVICES USED:
+
 Azure Bot Service
 
 Manage Identity
@@ -41,10 +50,10 @@ Azure AI Service
 
 Search Service
 
-PROBLEM STATEMENT:
+# PROBLEM STATEMENT:
 It seems like you're looking for a project statement related to the concept of "You fly, we accommodate." However, the phrase is a bit broad, and I'll need more context to provide a more specific and tailored project statement. Could you please provide additional details or clarify the focus of the project? For example, are you referring to a travel service, hospitality, aviation, or something else? Any additional information you can provide will help me better assist you in creating a relevant project statement.
 
-PROJECT DESCRIPTION:
+# PROJECT DESCRIPTION:
 The "You Fly, We Accommodate" project is a comprehensive travel platform aiming to simplify and enhance the travel experience. This innovative service integrates air travel and accommodation booking into a seamless, user-friendly interface. Key features include personalized travel recommendations and bundled packages for cost-effective solutions. The project seeks to establish partnerships with airlines and accommodation providers, offering users a one-stop solution for convenient, efficient, and personalized travel planning and booking.
 
 
@@ -107,44 +116,11 @@ The "You Fly, We Accommodate" project is dedicated to redefining travel by provi
 
 
 
-About
-If "You Fly, We Accommodate" is a recent development or a specific project, I recommend checking the latest online sources, company websites, or relevant platforms for the most up-to-date and accurate information.
 
 
 
-skillstorage07.z13.web.core.windows.net/
-Topics
-painting singing dancing stand-up-comedy
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-4
-@alekyagummala
-alekyagummala
-@rajeshreddy07
-rajeshreddy07
-@WorldDarker
-WorldDarker Vinod Bonagiri
-@Manojkurma1803
-Manojkurma1803
-Languages
-JavaScript
-44.4%
- 
-HTML
-32.3%
+
+
  
 CSS
 23.3%
