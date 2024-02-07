@@ -41,14 +41,12 @@ Azure RBAC which is a role-based access service
 
 Azure Bot Service
 
-Manage Identity
-
 Azure AI Service
 
 Search Service
 
 # PROBLEM STATEMENT:
-The current state of travel planning lacks a seamless integration of air travel and accommodation services, leading to fragmented user experiences and inefficiencies in the booking process. Users often face challenges in finding personalized and cost-effective travel solutions due to the disjointed nature of existing platforms. This results in a need for a comprehensive solution that combines air travel and accommodation booking in a user-friendly interface.
+The current state of travel planning lacks a seamless integration of  accommodation services, leading to fragmented user experiences and inefficiencies in the booking process. Users often face challenges in finding personalized and cost-effective accommodation solutions due to the disjointed nature of existing platforms. This results in a need for a comprehensive solution for accommodation booking in a user-friendly interface.
 
 
 
