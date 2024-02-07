@@ -41,8 +41,6 @@ Azure RBAC which is a role-based access service
 
 Azure Bot Service
 
-Azure AI Service
-
 Search Service
 
 # PROBLEM STATEMENT:
