@@ -46,7 +46,7 @@ Azure AI Service
 Search Service
 
 # PROBLEM STATEMENT:
-The current state of travel planning lacks a seamless integration of  accommodation services, leading to fragmented user experiences and inefficiencies in the booking process. Users often face challenges in finding personalized and cost-effective accommodation solutions due to the disjointed nature of existing platforms. This results in a need for a comprehensive solution for accommodation booking in a user-friendly interface.
+In the realm of student accommodation, particularly for project-based living, there exists a pressing need for optimized services that cater to the unique requirements and preferences of students engaged in academic endeavors. Whether it's short-term stays for intensive projects or long-term arrangements to support academic pursuits, providing comfortable, conducive, and well-equipped rooms is imperative. However, several challenges hinder the seamless provision of accommodation services, impacting the overall experience for both students and accommodation providers.
 
 
 
