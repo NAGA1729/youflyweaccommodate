@@ -9,7 +9,7 @@ Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
 
 GIT HUB URL: https://github.com/NAGA1729/youflyweaccommodate
 
-Industry: LIFESTYLE(Explore the Skills)
+Industry: LIFESTYLE()
 Team & Responsibilities:
 
 1. G.Naga Vinay
@@ -46,7 +46,7 @@ Azure AI Service
 Search Service
 
 # PROBLEM STATEMENT:
-In the realm of student accommodation, particularly for project-based living, there exists a pressing need for optimized services that cater to the unique requirements and preferences of students engaged in academic endeavors. Whether it's short-term stays for intensive projects or long-term arrangements to support academic pursuits, providing comfortable, conducive, and well-equipped rooms is imperative. However, several challenges hinder the seamless provision of accommodation services, impacting the overall experience for both students and accommodation providers.
+In the realm of student accommodation, particularly for project-based living, there exists a pressing need for optimized services that cater to the unique requirements and preferences of students engaged in academic endeavors. Whether it's short-term stays for intensive projects or long-term arrangements to support academic pursuits, providing comfortable, conducive, and well-equipped rooms is imperative. However, several challenges hinder the seamless provision of accommodation services, impacting the overall experience for both students and accommodation providers.Efficiently managing room capacity to accommodate fluctuating student populations, avoiding overcrowding or underutilization of resources.Ensuring consistent quality across all accommodation facilities to uphold student satisfaction, well-being,and academicperformance.Developing a user-friendly, efficient booking and reservation system capable of handling high volumes of requests and ensuring fair allocation of rooms.
 
 
 
