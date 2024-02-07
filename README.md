@@ -7,7 +7,7 @@ Static Website URL: https://skillstorage07.z13.web.core.windows.net/
 
 Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
 
-GIT HUB URL: https://github.com/alekyagummala/Explore-Skills_Azure
+GIT HUB URL: https://github.com/NAGA1729/youflyweaccommodate
 
 Industry: LIFESTYLE(Explore the Skills)
 Team & Responsibilities:
