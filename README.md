@@ -12,19 +12,19 @@ Team & Responsibilities:
 
 1. G.Naga Vinay
 
-Developer of the project. Created the website and managed the website using HTML, css.
+Developer of the project,Deployed the Website,Created the website and managed the website using HTML, css.
 
 2. Mohammad lal sahir:
 
-Developed the project. Data collection, Done the entire process.
+Documentation and content collection of the project.
 
 3. G.Bhanuprakash Reddy:
  
-Development, deployment, Static website in Azure portal.
+Data collection, Done the entire process.
 
 4. M.Saipriya:
  
-Documentation and content collection of the project.
+Designed the project.
 
 # AZURE CORE SERVICES USED:
 Azure Storage
