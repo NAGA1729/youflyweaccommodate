@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-image: url(home2.jpg);
+        }
+
+        h1 {
+            color: white; /* Set the text color to white */
+            animation: blink 1s infinite; /* Apply blinking animation */
+        }
+
+        @keyframes blink {
+            0%, 100% {
+                color: rgb(49, 187, 53); /* Set color to red at the beginning and end of the animation */
+                opacity: 0; /* Set opacity to 0 at the beginning and end of the animation */
+            }
+            50% {
+                color: rgb(124, 12, 210); /* Set color to green in the middle of the animation */
+                opacity: 1; /* Set opacity to 1 in the middle of the animation */
+            }
+            40% {
+                color: rgb(6, 68, 154); /* Set color to green in the middle of the animation */
+                opacity: 1; /* Set opacity to 1 in the middle of the animation */
+            }
+
+        }
+    </style>
+</head>
+<body>
+    <h1>Room Booked successfully</h1>
+    <h4>The data is stored on the website.</h4>
+    <span>
+        <a href="index.html">
+            <button>BACK</button>
+        </a>
+    </span>
+
+</body>
+</html>
