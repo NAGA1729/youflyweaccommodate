@@ -35,17 +35,15 @@ Designed the project.
 
 
 # AZURE CORE SERVICES USED:
-Azure Storage
-Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
-![storage-1](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/8a913eb4-0a48-4566-aa26-f53180c87069)
 
+Azure Storage
 
 Azure containers
-
 
 Azure backup
 
 Azure RBAC which is a role-based access service
+
 
 # AZURE AI SERVICES USED:
 
@@ -59,7 +57,11 @@ In the realm of student accommodation, particularly for project-based living, th
 
 
 # PROJECT DESCRIPTION:
-The "You Fly, We Accommodate" project is a comprehensive travel platform aiming to simplify and enhance the travel experience. This innovative service integrates air travel and accommodation booking into a seamless, user-friendly interface. Key features include personalized travel recommendations and bundled packages for cost-effective solutions. The project seeks to establish partnerships with airlines and accommodation providers, offering users a one-stop solution for convenient, efficient, and personalized travel planning and booking.
+The "You Fly, We Accommodate" project is a comprehensive accommodation platform aiming to simplify and enhance the accommodation experience. 
+
+This innovative service integrates accommodation booking into a seamless, user-friendly interface. Key features include personalized  bundled packages for cost-effective solutions.
+
+The project seeks to establish partnerships with accommodation providers, offering users a one-stop solution for convenient, efficient, and personalized accommodation planning and booking.
 
 
 
@@ -73,7 +75,7 @@ Azure Storage Account:
 
 Azure Storage is a cloud-based storage solution provided by Microsoft Azure, which is a comprehensive set of cloud services. An Azure Storage account is a unique entity in Azure that represents a storage container for your data.
 
-![Uploading storage-1.png…]()
+storage-1.png
 
 
 
