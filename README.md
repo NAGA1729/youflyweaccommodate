@@ -7,7 +7,8 @@ Youtube Video URL : https://youtu.be/JEXeIrXxxPs?si=E-LV7SGfczjEvPs_
 
 GIT HUB URL: https://github.com/NAGA1729/youflyweaccommodate
 
-Industry: LIFESTYLE()
+Industry: LIFESTYLE(YOU FLY WE ACCOMMODATE)
+
 Team & Responsibilities:
 
 1. G.Naga Vinay
