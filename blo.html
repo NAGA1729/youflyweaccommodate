@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown with Sub-items and Buttons</title>
+    <style>
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .sub-dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .sub-dropdown-content {
+            display: none;
+            position: absolute;
+            top: 0;
+            left: 100%;
+            background-color: #f9f9f9;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .sub-dropdown:hover .sub-dropdown-content {
+            display: block;
+        }
+
+        .sub-dropdown-item {
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            color: #333;
+            cursor: pointer;
+        }
+
+        .sub-dropdown-item:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dropdown">
+    <button class="sub-dropdown-item" onclick="displaySubItems()"> USA</button>
+    <div class="dropdown-content" id="Dropdown">
+        <div class="sub-dropdown">
+            <button class="sub-dropdown-item" onclick="displaySubItems('subItem1')">TEXAS</button>
+            <div class="sub-dropdown-content" id="subItem1">
+                <button class="sub-dropdown-item" onclick="redirectToServices()">DALLAS</button>
+                <button class="sub-dropdown-item" onclick="redirectToServices()">AUSTIN</button>
+                <script>
+                    function redirectToIndex() {
+                        // Redirect to services.html
+                        window.location.href = 'index.html';
+                    }
+                </script>         
+                              
+                                
+                <!-- <div id="list1" style="display: none;">
+                     Add your sub-items content here
+                    <p>List Item 1</p>
+                    <p>List Item 2</p>
+                </div> -->
+            </div>
+        </div>
+        <div class="sub-dropdown">
+            <button class="sub-dropdown-item" onclick="displaySubItems('subItem2')">BOSTON</button>
+            <div class="sub-dropdown-content" id="subItem2">
+                <button class="sub-dropdown-item" onclick="redirectToIndex()">nag</button>
+                <button class="sub-dropdown-item" onclick="redirectToIndex()">vinay</button>
+                <script>
+                    function redirectToIndex() {
+                        // Redirect to index.html
+                        window.location.href = 'services.html';
+                    }
+                </script> 
+
+
+                <!-- <button class="sub-dropdown-item" onclick="displayList('list2')">Show List</button> -->
+                <!-- <div id="list2" style="display: none;"> -->
+                    <!-- Add your sub-items content here -->
+                    <!-- <p>List Item 3</p>
+                    <p>List Item 4</p> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="dropdown">
+    <button class="sub-dropdown-item" onclick="displaySubItems()"> USA</button>
+    <div class="dropdown-content" id="Dropdown">
+        <div class="sub-dropdown">
+            <button class="sub-dropdown-item" onclick="displaySubItems('subItem1')">TE</button>
+            <div class="sub-dropdown-content" id="subItem1">
+                <button class="sub-dropdown-item" onclick="redirectToServices()">DLLS</button>
+                <button class="sub-dropdown-item" onclick="redirectToServices()">TIN</button>
+                <script>
+                    function redirectToIndex() {
+                        // Redirect to services.html
+                        window.location.href = 'index.html';
+                    }
+                </script>         
+                              
+                                
+                <!-- <div id="list1" style="display: none;">
+                     Add your sub-items content here
+                    <p>List Item 1</p>
+                    <p>List Item 2</p>
+                </div> -->
+            </div>
+        </div>
+        <div class="sub-dropdown">
+            <button class="sub-dropdown-item" onclick="displaySubItems('subItem2')">TON</button>
+            <div class="sub-dropdown-content" id="subItem2">
+                <button class="sub-dropdown-item" onclick="redirectToIndex()">naga</button>
+                <button class="sub-dropdown-item" onclick="redirectToIndex()">pranay</button>
+                <script>
+                    function redirectToIndex() {
+                        // Redirect to index.html
+                        window.location.href = 'services.html';
+                    }
+                </script> 
+
+
+                <!-- <button class="sub-dropdown-item" onclick="displayList('list2')">Show List</button> -->
+                <!-- <div id="list2" style="display: none;"> -->
+                    <!-- Add your sub-items content here -->
+                    <!-- <p>List Item 3</p>
+                    <p>List Item 4</p> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function displaySubItems(subItemId) {
+        var subItem = document.getElementById(subItemId);
+        subItem.style.display = (subItem.style.display === 'none' || subItem.style.display === '') ? 'block' : 'none';
+    }
+
+    function displayList(listId) {
+        var list = document.getElementById(listId);
+        list.style.display = (list.style.display === 'none' || list.style.display === '') ? 'block' : 'none';
+    }
+</script>
+
+</body>
+</html>
