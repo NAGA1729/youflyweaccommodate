@@ -7,25 +7,32 @@ Youtube Video URL : https://youtu.be/JEXeIrXxxPs?si=E-LV7SGfczjEvPs_
 
 GIT HUB URL: https://github.com/NAGA1729/youflyweaccommodate
 
+
 Industry: LIFESTYLE(YOU FLY WE ACCOMMODATE)
 
 Team & Responsibilities:
+
 
 1. G.Naga Vinay
 
 Developer of the project,Deployed the Website,Created the website and managed the website using HTML, css.
 
+
 2. Mohammad lal sahir:
 
 Documentation and content collection of the project.
+
 
 3. G.Bhanuprakash Reddy:
  
 Data collection, Done the entire process.
 
+
 4. M.Saipriya:
  
 Designed the project.
+
+
 
 # AZURE CORE SERVICES USED:
 Azure Storage
