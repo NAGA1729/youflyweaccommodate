@@ -29,7 +29,7 @@ Designed the project.
 # AZURE CORE SERVICES USED:
 Azure Storage
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
-![Uploading storage-1.png…]()
+![storage-1](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/8a913eb4-0a48-4566-aa26-f53180c87069)
 
 
 Azure containers
@@ -62,7 +62,11 @@ AZURE CORE AZURE SERVICES:
 
 
 Azure Storage Account:
+
 Azure Storage is a cloud-based storage solution provided by Microsoft Azure, which is a comprehensive set of cloud services. An Azure Storage account is a unique entity in Azure that represents a storage container for your data.
+
+![Uploading storage-1.png…]()
+
 
 
 Azure Blob Storage:
