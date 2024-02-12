@@ -37,13 +37,9 @@ Azure RBAC which is a role-based access service
 
 # AZURE AI SERVICES USED:
 
-Azure Bot Service
+AI Bot Service
 
-Manage Identity
-
-Azure AI Service
-
-Search Service
+AI Language Service
 
 # PROBLEM STATEMENT:
 In the realm of student accommodation, particularly for project-based living, there exists a pressing need for optimized services that cater to the unique requirements and preferences of students engaged in academic endeavors. Providing comfortable, conducive, and well-equipped rooms is imperative. However, several challenges hinder the seamless provision of accommodation services, impacting the overall experience for both students and accommodation providers.Efficiently managing room capacity to accommodate fluctuating student populations, avoiding overcrowding or underutilization of resources.Ensuring consistent quality across all accommodation facilities to uphold student satisfaction, well-being,and academicperformance.Developing a user-friendly, efficient booking and reservation system capable of handling high volumes of requests and ensuring fair allocation of rooms. Maximizing the utilization of space, amenities, and support services to enhance the overall student experience and optimize operational efficiency.Balancing affordability with the provision of quality accommodation services to meet the diverse financial circumstances of students.Implementing proactive maintenance strategies to address issues promptly, minimize disruptions, and maintain a safe and comfortable living environment. 
@@ -86,14 +82,13 @@ AZURE AI SERVICES:
 Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.       
 
-Manage Identity:
-Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
 
 
 
 
 
-Azure AI Service
+
+AI Language Service
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
 
 
@@ -102,8 +97,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 
 
-Search Service:
-Azure Search Service is a fully managed, cloud-based search-as-a -service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
+
 
 
 # FINAL PROJECT STATEMENT
