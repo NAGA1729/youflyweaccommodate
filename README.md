@@ -1,7 +1,7 @@
 # YOU FLY WE ACCOMMODATE
 
 # Project Details:
-Project Demo URL: https://flying01.z13.web.core.windows.net/index.html
+Project Demo URL: https://flying01.z13.web.core.windows.net/
 
 Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
 
