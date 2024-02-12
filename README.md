@@ -3,7 +3,7 @@
 # Project Details:
 Project Demo URL: https://flying01.z13.web.core.windows.net/
 
-Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
+Youtube Video URL : https://youtu.be/JEXeIrXxxPs?si=E-LV7SGfczjEvPs_
 
 GIT HUB URL: https://github.com/NAGA1729/youflyweaccommodate
 
