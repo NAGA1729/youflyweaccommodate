@@ -28,8 +28,12 @@ Designed the project.
 
 # AZURE CORE SERVICES USED:
 Azure Storage
+Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+![Uploading storage-1.png…]()
+
 
 Azure containers
+
 
 Azure backup
 
@@ -80,7 +84,7 @@ Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azu
 
 AZURE AI SERVICES:
 Azure Bot Service:
-Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.       
+Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype and more     
 
 
 
