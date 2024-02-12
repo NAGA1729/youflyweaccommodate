@@ -95,6 +95,7 @@ Azure Backup Service is a cloud-based solution provided by Microsoft Azure that 
 Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
 
+![Uploading role a.png…]()
 
 
 
