@@ -58,9 +58,7 @@ In the realm of student accommodation, particularly for project-based living, th
 
 # PROJECT DESCRIPTION:
 The "You Fly, We Accommodate" project is a comprehensive accommodation platform aiming to simplify and enhance the accommodation experience. 
-
 This innovative service integrates accommodation booking into a seamless, user-friendly interface. Key features include personalized  bundled packages for cost-effective solutions.
-
 The project seeks to establish partnerships with accommodation providers, offering users a one-stop solution for convenient, efficient, and personalized accommodation planning and booking.
 
 
