@@ -127,3 +127,13 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 The "You Fly, We Accommodate" project is dedicated to In conclusion, the accommodation of student rooms plays a vital role in fostering a conducive environment for learning, growth, and personal development. Through thoughtful planning, design, and management, student accommodation facilities can greatly enhance the overall university experience, providing students with a comfortable and supportive living space. By prioritizing safety, accessibility, and inclusivity, we can ensure that every student has equal opportunities to thrive academically and socially. Moving forward, continued investment and innovation in student accommodation are essential to meet the evolving needs of students and create spaces that inspire success and well-being.
 ![Screenshot 2024-02-09 173655](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/fb64936c-fbb3-498e-83b9-67c5c5749e6d)
+![Screenshot 2024-02-09 174016](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/d55271f0-93e2-4722-838b-cab42c0945ca)
+
+
+
+
+
+
+
+
+
