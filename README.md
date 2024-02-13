@@ -91,7 +91,8 @@ Azure Blob Storage is a cloud-based object storage solution provided by Microsof
 
 # Azure Backup Service:
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
-![Screenshot 2024-02-13 084538](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/1dae8393-cb50-43cc-8780-b1474a505731)
+![backuppolicy](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/9d36c581-13a8-47ab-a55e-73d5fd4f1a89)
+
 
 ![backupvault](https://github.com/NAGA1729/youflyweaccommodate/assets/140480951/16f7407c-9361-4b1a-afd4-363bdeb20a6c)
 
@@ -133,7 +134,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 The "You Fly, We Accommodate" project is dedicated to In conclusion, the accommodation of student rooms plays a vital role in fostering a conducive environment for learning, growth, and personal development. Through thoughtful planning, design, and management, student accommodation facilities can greatly enhance the overall university experience, providing students with a comfortable and supportive living space. By prioritizing safety, accessibility, and inclusivity, we can ensure that every student has equal opportunities to thrive academically and socially. Moving forward, continued investment and innovation in student accommodation are essential to meet the evolving needs of students and create spaces that inspire success and well-being.
 ![Screenshot 2024-02-09 173655](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/fb64936c-fbb3-498e-83b9-67c5c5749e6d)
-![Screenshot 2024-02-09 174016](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/d55271f0-93e2-4722-838b-cab42c0945ca)
+![Screenshot 2024-02-13 113535](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/12de6365-bd1b-4864-85dd-a02da195b8d4)
 ![Screenshot 2024-02-09 174100](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/377e356c-6bdf-45ee-807b-ec5b194c1beb)
 ![Screenshot 2024-02-09 174122](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/57c747cf-faf1-4919-bf55-e6f745f6a2a2)
 ![Screenshot 2024-02-09 173754](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/519b73ba-2025-4de6-bc15-d30704e0f612)
