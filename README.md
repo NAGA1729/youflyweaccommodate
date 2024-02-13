@@ -104,10 +104,10 @@ AZURE AI SERVICES:
 Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype and more     
 
+![language](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/53cb226b-0dd3-4d92-a859-2cd58c71ea2c)
 
 
 
-![Screenshot 2024-02-13 045547](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/598886e4-2019-47cb-9dac-44580deb91b0)
 
 
 
@@ -115,7 +115,7 @@ AI Language Service
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
 
 
-
+![Screenshot 2024-02-13 045547](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/598886e4-2019-47cb-9dac-44580deb91b0)
 
 
 
@@ -126,3 +126,4 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 # FINAL PROJECT STATEMENT
 
 The "You Fly, We Accommodate" project is dedicated to In conclusion, the accommodation of student rooms plays a vital role in fostering a conducive environment for learning, growth, and personal development. Through thoughtful planning, design, and management, student accommodation facilities can greatly enhance the overall university experience, providing students with a comfortable and supportive living space. By prioritizing safety, accessibility, and inclusivity, we can ensure that every student has equal opportunities to thrive academically and socially. Moving forward, continued investment and innovation in student accommodation are essential to meet the evolving needs of students and create spaces that inspire success and well-being.
+![Screenshot 2024-02-09 173655](https://github.com/NAGA1729/youflyweaccommodate/assets/158992660/fb64936c-fbb3-498e-83b9-67c5c5749e6d)
